@@ -1,6 +1,3 @@
-[![CI](https://github.com/nogibjj/mlops-template/actions/workflows/cicd.yml/badge.svg?branch=GPU)](https://github.com/nogibjj/mlops-template/actions/workflows/cicd.yml)
-[![Codespaces Prebuilds](https://github.com/nogibjj/mlops-template/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg?branch=GPU)](https://github.com/nogibjj/mlops-template/actions/workflows/codespaces/create_codespaces_prebuilds)
-
 <img width="675" alt="cover_pic" src="https://user-images.githubusercontent.com/112578755/197401108-9d2b6e15-add4-4174-9072-6b82acd79143.png">
 
 #### Project Goal :seedling:
